@@ -1,0 +1,101 @@
+{
+    "site_info": {
+        "domain": "ribin.in",
+        "title": "Ribin",
+        "description": "Escape the usual",
+        "pages_analyzed": 5
+    },
+    "ai_readiness_scores": {
+        "overall": 46.0,
+        "components": {
+            "content_quality": 79.8,
+            "technical_optimization": 50.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+        }
+    },
+    "content_stats": {
+        "total_pages": 5,
+        "avg_word_count": 739.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 0,
+        "has_structured_data": false,
+        "js_rendered_pages": 0
+    },
+    "top_recommendations": [
+        {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+        },
+        {
+            "category": "Question Answering",
+            "issue": "Lack of explicit Q&A content",
+            "recommendation": "Add FAQ sections with common questions and clear answers.",
+            "importance": "Critical"
+        },
+        {
+            "category": "Technical Optimization",
+            "issue": "Missing H1 headings",
+            "recommendation": "Ensure each page has exactly one H1 heading.",
+            "importance": "High"
+        },
+        {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+        },
+        {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+        }
+    ],
+    "all_recommendations": [
+        {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+        },
+        {
+            "category": "Technical Optimization",
+            "issue": "Missing H1 headings",
+            "recommendation": "Ensure each page has exactly one H1 heading.",
+            "importance": "High"
+        },
+        {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+        },
+        {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+        },
+        {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+        },
+        {
+            "category": "Question Answering",
+            "issue": "Lack of explicit Q&A content",
+            "recommendation": "Add FAQ sections with common questions and clear answers.",
+            "importance": "Critical"
+        },
+        {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+        }
+    ]
+}

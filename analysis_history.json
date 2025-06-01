@@ -1,0 +1,4139 @@
+[
+  {
+    "timestamp": "2025-06-01T13:56:32.122723",
+    "domain": "https://asvaai.com/",
+    "overall_score": 7.6,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T13:55:57.022594"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 59,
+              "LCP": 124,
+              "TTFB": 54,
+              "DOM_Load": 65,
+              "Total_Load": 124,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 7.6,
+          "dimensions": {
+            "content_quality": {
+              "score": 8,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by the company, its benefits, and how it works.",
+              "issues": [
+                "Lack of detailed information about the company's history, team, and values"
+              ]
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. It starts with an introduction to the service, followed by its features, benefits, and customer testimonials.",
+              "issues": [
+                "Some sections could use more detailed subheadings for better clarity"
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 6,
+              "explanation": "The content includes a question-answer pair, but it doesn't cover many common questions that potential customers might have about the service.",
+              "issues": [
+                "Lack of a comprehensive FAQ section"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 7,
+              "explanation": "The content covers its topic area fairly thoroughly, but there are areas that could be expanded upon, such as more detailed information about how the service works and the technology behind it.",
+              "issues": [
+                "Lack of detailed information about how the service works and the technology behind it"
+              ]
+            },
+            "entity_clarity": {
+              "score": 8,
+              "explanation": "The content clearly identifies key entities, products, and services. It's clear that the website is for a company called Asva AI that offers an AI optimization platform.",
+              "issues": [
+                "The specific features of the platform could be explained more clearly"
+              ]
+            },
+            "factual_content": {
+              "score": 7,
+              "explanation": "The content provides specific facts and data points, such as the benefits customers have seen from using the service. However, it doesn't provide many statistics or data points to back up its claims.",
+              "issues": [
+                "Lack of statistics or data points to back up claims"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 8,
+              "explanation": "The content is self-contained and understandable without additional context. It provides a clear overview of the service and its benefits.",
+              "issues": [
+                "Some technical terms and concepts could be explained more clearly for non-technical users"
+              ]
+            },
+            "semantic_relevance": {
+              "score": 8,
+              "explanation": "The content uses relevant terminology and concepts related to AI and SEO. However, some of these terms could be explained more clearly for non-technical users.",
+              "issues": [
+                "Some technical terms could be explained more clearly"
+              ]
+            }
+          },
+          "key_insights": [
+            "The website's content is informative and well-structured, which should make it easier for AI assistants to understand and surface relevant information.",
+            "The website could improve its AI search optimization by including a comprehensive FAQ section and providing more detailed information about how the service works and the technology behind it.",
+            "The website could also improve its AI search optimization by providing more statistics or data points to back up its claims, and by explaining technical terms and concepts more clearly for non-technical users."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "question_answer_coverage": [
+              "Recommendation 1: Create a comprehensive FAQ section that covers common questions potential customers might have about the service.",
+              "Recommendation 2: Consider using a chatbot or AI assistant to provide instant answers to user queries."
+            ],
+            "comprehensive_information": [
+              "Recommendation 1: Provide more detailed information about how the service works and the technology behind it.",
+              "Recommendation 2: Include case studies or examples to illustrate the application and benefits of the service."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include more statistics or data points to back up the claims about the service.",
+              "Recommendation 2: Consider conducting surveys or studies to gather original data that can be shared on the website."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Create a comprehensive FAQ section",
+              "importance": "This will help answer common user queries and improve the website's question-answer coverage, which is important for AI search.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Provide detailed information about how the service works and the technology behind it",
+              "importance": "This will make the content more comprehensive and informative, which can improve AI search visibility.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include more statistics or data points to back up claims",
+              "importance": "This will enhance the factual content of the website, making it more credible and trustworthy for both users and AI search algorithms.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Explain technical terms and concepts more clearly for non-technical users",
+              "importance": "This will improve the contextual completeness and semantic relevance of the content, making it more accessible and understandable for all users.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Use a chatbot or AI assistant to provide instant answers to user queries",
+              "importance": "This will improve the website's question-answer coverage and provide a more interactive and engaging user experience.",
+              "impact": "Medium",
+              "difficulty": "Difficult"
+            }
+          ]
+        },
+        "overall_score": 7.6
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 7.6,
+        "components": {
+          "content_quality": 8,
+          "technical_optimization": 8,
+          "authority_signals": 8,
+          "question_answering": 6
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Create a comprehensive FAQ section",
+          "importance": "This will help answer common user queries and improve the website's question-answer coverage, which is important for AI search.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Provide detailed information about how the service works and the technology behind it",
+          "importance": "This will make the content more comprehensive and informative, which can improve AI search visibility.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include more statistics or data points to back up claims",
+          "importance": "This will enhance the factual content of the website, making it more credible and trustworthy for both users and AI search algorithms.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Explain technical terms and concepts more clearly for non-technical users",
+          "importance": "This will improve the contextual completeness and semantic relevance of the content, making it more accessible and understandable for all users.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Use a chatbot or AI assistant to provide instant answers to user queries",
+          "importance": "This will improve the website's question-answer coverage and provide a more interactive and engaging user experience.",
+          "impact": "Medium",
+          "difficulty": "Difficult"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:00:45.737292",
+    "domain": "https://asvaai.com/",
+    "overall_score": 8.3,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:00:09.234343"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 59,
+              "LCP": 122,
+              "TTFB": 55,
+              "DOM_Load": 63,
+              "Total_Load": 122,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 8.3,
+          "dimensions": {
+            "content_quality": {
+              "score": 9,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI, their benefits, and how they work.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. However, the use of multiple H4 headings could be confusing for AI.",
+              "issues": [
+                "Overuse of H4 headings"
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 7,
+              "explanation": "The content includes a question-answer pair, but it doesn't cover a wide range of common questions in its domain.",
+              "issues": [
+                "Limited range of questions covered"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 8,
+              "explanation": "The content covers its topic area thoroughly, providing detailed information about Asva AI's services and their benefits.",
+              "issues": []
+            },
+            "entity_clarity": {
+              "score": 9,
+              "explanation": "The content clearly identifies key entities, products, and services. The brand name 'Asva AI' is mentioned multiple times, along with the names of its services.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 8,
+              "explanation": "The content provides specific facts and data points, such as the increase in AI visibility and AI-driven signups achieved by Asva AI's clients.",
+              "issues": []
+            },
+            "contextual_completeness": {
+              "score": 8,
+              "explanation": "The content is self-contained and understandable without additional context. However, some terms like 'AEO' and 'LLM' are not explained.",
+              "issues": [
+                "Some terms are not explained"
+              ]
+            },
+            "semantic_relevance": {
+              "score": 9,
+              "explanation": "The content uses relevant terminology and concepts related to AI search optimization.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website's content is informative and well-structured, which would make it easily discoverable by AI assistants.",
+            "The clear identification of key entities, products, and services would also help AI assistants understand and surface the content.",
+            "However, the limited range of questions covered and the lack of explanation for some terms could limit the website's visibility in AI search results."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "content_structure": [
+              "Recommendation 1: Reduce the use of H4 headings. Instead, try to structure the content using more H2 and H3 headings to create a clear hierarchy.",
+              "Recommendation 2: Ensure each section of the content is clearly defined with appropriate headings. This will help AI understand the structure and context of the content."
+            ],
+            "question_answer_coverage": [
+              "Recommendation 1: Include a FAQ section that covers a wide range of common questions related to your domain.",
+              "Recommendation 2: Use structured data markup for FAQ content to make it easily discoverable by AI search."
+            ],
+            "contextual_completeness": [
+              "Recommendation 1: Provide explanations or definitions for terms like 'AEO' and 'LLM' within the content.",
+              "Recommendation 2: Use schema markup to define these terms and their relationships to other entities on the website."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Include a FAQ section that covers a wide range of common questions related to your domain.",
+              "importance": "This will help the website cover more user queries, increasing its visibility in AI search results.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use structured data markup for FAQ content.",
+              "importance": "Structured data helps AI understand the content and its context, making it more likely to be surfaced in search results.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Provide explanations or definitions for terms like 'AEO' and 'LLM' within the content.",
+              "importance": "This will make the content more understandable to AI and users, improving its relevance and visibility in search results.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Use schema markup to define terms and their relationships.",
+              "importance": "Schema markup helps AI understand the content and its context, making it more likely to be surfaced in search results.",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Reduce the use of H4 headings and structure the content using more H2 and H3 headings.",
+              "importance": "A clear content hierarchy helps AI understand the structure and context of the content, improving its visibility in search results.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            }
+          ]
+        },
+        "overall_score": 8.3
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 8.3,
+        "components": {
+          "content_quality": 9,
+          "technical_optimization": 8,
+          "authority_signals": 9,
+          "question_answering": 7
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Include a FAQ section that covers a wide range of common questions related to your domain.",
+          "importance": "This will help the website cover more user queries, increasing its visibility in AI search results.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use structured data markup for FAQ content.",
+          "importance": "Structured data helps AI understand the content and its context, making it more likely to be surfaced in search results.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Provide explanations or definitions for terms like 'AEO' and 'LLM' within the content.",
+          "importance": "This will make the content more understandable to AI and users, improving its relevance and visibility in search results.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Use schema markup to define terms and their relationships.",
+          "importance": "Schema markup helps AI understand the content and its context, making it more likely to be surfaced in search results.",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Reduce the use of H4 headings and structure the content using more H2 and H3 headings.",
+          "importance": "A clear content hierarchy helps AI understand the structure and context of the content, improving its visibility in search results.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:02:32.717361",
+    "domain": "https://asvaai.com/",
+    "overall_score": 7.8,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:01:56.710767"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 63,
+              "LCP": 127,
+              "TTFB": 58,
+              "DOM_Load": 64,
+              "Total_Load": 127,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 7.8,
+          "dimensions": {
+            "content_quality": {
+              "score": 8,
+              "explanation": "The content is informative, accurate, and valuable. It provides a clear description of the services offered by the company and includes testimonials from clients.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. It starts with an introduction to the company, followed by descriptions of its services, testimonials, and contact information.",
+              "issues": []
+            },
+            "question_answer_coverage": {
+              "score": 6,
+              "explanation": "The content includes a question-answer pair, but it doesn't cover many common questions that potential customers might have about the company's services.",
+              "issues": [
+                "Limited question-answer pairs"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 8,
+              "explanation": "The content thoroughly covers the topic area, providing information about the company's services, the results achieved by its clients, and resources for learning more about AI search.",
+              "issues": []
+            },
+            "entity_clarity": {
+              "score": 8,
+              "explanation": "The content clearly identifies the key entity (Asva AI) and its services. It also mentions AI assistants like ChatGPT, Claude, and Perplexity.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 7,
+              "explanation": "The content provides specific facts and data points, such as the results achieved by the company's clients. However, it doesn't include any statistics or data to support its claims.",
+              "issues": [
+                "Lack of supporting statistics or data"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 8,
+              "explanation": "The content is self-contained and understandable without additional context. It provides a complete overview of the company and its services.",
+              "issues": []
+            },
+            "semantic_relevance": {
+              "score": 8,
+              "explanation": "The content uses relevant terminology and concepts related to AI search optimization.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website's content is informative and well-structured, which would make it easy for AI assistants to understand and surface relevant information.",
+            "The website includes a question-answer pair, but it doesn't cover many common questions that potential customers might have. This could limit its visibility in AI search results.",
+            "The website provides specific facts and data points, but it doesn't include any statistics or data to support its claims. This could affect its credibility and visibility in AI search results."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "question_answer_coverage": [
+              "Recommendation 1: Add a FAQ section to the website that addresses common questions potential customers might have about the company's services.",
+              "Recommendation 2: Incorporate more question-answer pairs within the content, especially in blog posts or articles."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include more statistics or data to support the claims made about the company's services.",
+              "Recommendation 2: Use case studies or success stories to provide factual evidence of the results achieved by the company's clients."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Add a FAQ section to the website",
+              "importance": "This will increase the question-answer coverage, making the website more visible in AI search results.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Incorporate more question-answer pairs within the content",
+              "importance": "This will provide more context for AI search algorithms, improving the website's visibility.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Include more statistics or data to support the claims",
+              "importance": "This will enhance the factual content score, improving the website's credibility and visibility in AI search results.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use case studies or success stories to provide factual evidence",
+              "importance": "This will provide concrete evidence of the company's success, improving its credibility and visibility in AI search results.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Optimize the website for mobile devices",
+              "importance": "A significant portion of searches are conducted on mobile devices. A mobile-friendly website is more likely to be ranked higher by AI search algorithms.",
+              "impact": "High",
+              "difficulty": "Difficult"
+            }
+          ]
+        },
+        "overall_score": 7.8
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 7.8,
+        "components": {
+          "content_quality": 8,
+          "technical_optimization": 8,
+          "authority_signals": 8,
+          "question_answering": 6
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Add a FAQ section to the website",
+          "importance": "This will increase the question-answer coverage, making the website more visible in AI search results.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Incorporate more question-answer pairs within the content",
+          "importance": "This will provide more context for AI search algorithms, improving the website's visibility.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Include more statistics or data to support the claims",
+          "importance": "This will enhance the factual content score, improving the website's credibility and visibility in AI search results.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use case studies or success stories to provide factual evidence",
+          "importance": "This will provide concrete evidence of the company's success, improving its credibility and visibility in AI search results.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Optimize the website for mobile devices",
+          "importance": "A significant portion of searches are conducted on mobile devices. A mobile-friendly website is more likely to be ranked higher by AI search algorithms.",
+          "impact": "High",
+          "difficulty": "Difficult"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:03:39.325108",
+    "domain": "https://asvaai.com/",
+    "overall_score": 8.5,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:03:04.523708"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 63,
+              "LCP": 130,
+              "TTFB": 58,
+              "DOM_Load": 67,
+              "Total_Load": 130,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 8.5,
+          "dimensions": {
+            "content_quality": {
+              "score": 9,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI and how they can benefit potential customers.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. However, there could be more subheadings to further break down the information.",
+              "issues": [
+                "Lack of subheadings in some sections"
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 7,
+              "explanation": "The content includes a question-answer pair, but it could cover more common questions related to the services offered.",
+              "issues": [
+                "Limited number of question-answer pairs"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 9,
+              "explanation": "The content thoroughly covers the topic area, providing detailed information about the services offered by Asva AI and how they can benefit potential customers.",
+              "issues": []
+            },
+            "entity_clarity": {
+              "score": 9,
+              "explanation": "The content clearly identifies key entities, products, and services. It provides clear information about Asva AI and its offerings.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 8,
+              "explanation": "The content provides specific facts and data points, but it could include more statistics to further support its claims.",
+              "issues": [
+                "Lack of statistics in some sections"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 9,
+              "explanation": "The content is self-contained and understandable without additional context. It provides all the necessary information for potential customers to understand the services offered by Asva AI.",
+              "issues": []
+            },
+            "semantic_relevance": {
+              "score": 9,
+              "explanation": "The content uses relevant terminology and concepts. It uses terms related to AI search optimization, which is the main topic of the website.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website's content is high-quality and informative, which increases its chances of being discovered and surfaced by AI assistants.",
+            "The content is well-structured with clear headings and logical flow, making it easier for AI assistants to understand and index.",
+            "The website could improve its AI search optimization by including more question-answer pairs and statistics."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "content_structure": [
+              "Recommendation 1: Include more subheadings to break down the information into smaller, digestible sections. This will make it easier for AI to understand and index the content.",
+              "Recommendation 2: Ensure that each section of the content has a clear and descriptive heading. This will improve the content's structure and make it more accessible to AI."
+            ],
+            "question_answer_coverage": [
+              "Recommendation 1: Include more question-answer pairs in the content. This can be done by identifying common questions that potential customers might have about the services and providing clear, concise answers.",
+              "Recommendation 2: Consider adding a FAQ section to the website. This will provide a structured format for question-answer pairs, making it easier for AI to understand and index."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include more statistics and data points in the content to support claims. This will enhance the factual content score and make the content more credible and informative.",
+              "Recommendation 2: Use reliable sources for the statistics and data points, and provide references where appropriate. This will increase the trustworthiness of the content."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Include more subheadings in the content",
+              "importance": "Subheadings make the content more structured and easier for AI to understand and index",
+              "impact": "High",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Include more question-answer pairs in the content",
+              "importance": "Question-answer pairs make the content more interactive and easier for AI to understand and index",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Add a FAQ section to the website",
+              "importance": "A FAQ section provides a structured format for question-answer pairs, making it easier for AI to understand and index",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include more statistics and data points in the content",
+              "importance": "Statistics and data points make the content more credible and informative",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use reliable sources for the statistics and data points, and provide references",
+              "importance": "References increase the trustworthiness of the content",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            }
+          ]
+        },
+        "overall_score": 8.5
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 8.5,
+        "components": {
+          "content_quality": 9,
+          "technical_optimization": 8,
+          "authority_signals": 9,
+          "question_answering": 7
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Include more subheadings in the content",
+          "importance": "Subheadings make the content more structured and easier for AI to understand and index",
+          "impact": "High",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Include more question-answer pairs in the content",
+          "importance": "Question-answer pairs make the content more interactive and easier for AI to understand and index",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Add a FAQ section to the website",
+          "importance": "A FAQ section provides a structured format for question-answer pairs, making it easier for AI to understand and index",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include more statistics and data points in the content",
+          "importance": "Statistics and data points make the content more credible and informative",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use reliable sources for the statistics and data points, and provide references",
+          "importance": "References increase the trustworthiness of the content",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:08:17.761011",
+    "domain": "https://asvaai.com/",
+    "overall_score": 8.4,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:07:37.357186"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 61,
+              "LCP": 122,
+              "TTFB": 56,
+              "DOM_Load": 61,
+              "Total_Load": 122,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 8.4,
+          "dimensions": {
+            "content_quality": {
+              "score": 9,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI, their benefits, and how they can be used.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. However, there are some sections where the flow could be improved.",
+              "issues": [
+                "Some sections could have a better flow"
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 7,
+              "explanation": "The content includes a question-answer pair, but it does not cover a wide range of common questions in its domain.",
+              "issues": [
+                "Limited range of questions covered"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 8,
+              "explanation": "The content covers its topic area thoroughly, providing information about the services, benefits, and how to use them. However, it could provide more detailed information about some aspects.",
+              "issues": [
+                "Some aspects could be explained in more detail"
+              ]
+            },
+            "entity_clarity": {
+              "score": 9,
+              "explanation": "The content clearly identifies key entities, products, and services. It provides clear information about Asva AI and its services.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 8,
+              "explanation": "The content provides specific facts and data points, such as the benefits of using Asva AI's services. However, it does not provide many statistics.",
+              "issues": [
+                "Limited use of statistics"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 9,
+              "explanation": "The content is self-contained and understandable without additional context. It provides all the necessary information about Asva AI and its services.",
+              "issues": []
+            },
+            "semantic_relevance": {
+              "score": 9,
+              "explanation": "The content uses relevant terminology and concepts. It uses terms related to AI and SEO, which are relevant to its domain.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website has high-quality, informative content that is relevant to its domain, which increases its chances of being discovered by AI assistants.",
+            "The content is well-structured with clear headings, which makes it easier for AI assistants to understand and surface the content.",
+            "The website could improve its AI search optimization by including more common questions in its domain and providing more detailed information about some aspects."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "content_structure": [
+              "Recommendation 1: Identify sections where the flow of information could be improved. Ensure that each section logically leads to the next and that the information is presented in a coherent, easy-to-follow manner.",
+              "Recommendation 2: Use more subheadings to break down complex topics into smaller, digestible parts. This can help improve the flow and readability of the content."
+            ],
+            "question_answer_coverage": [
+              "Recommendation 1: Conduct a keyword research to identify common questions in your domain. Incorporate these questions and their answers into your content.",
+              "Recommendation 2: Consider adding a FAQ section to cover a wide range of common questions related to your services."
+            ],
+            "comprehensive_information": [
+              "Recommendation 1: Identify aspects that could be explained in more detail. Provide more in-depth information to make your content more comprehensive.",
+              "Recommendation 2: Use visuals, such as infographics and diagrams, to explain complex concepts. This can help provide more detailed information in an easy-to-understand manner."
+            ],
+            "factual_content": [
+              "Recommendation 1: Incorporate more statistics and data points into your content. This can help make your content more factual and credible.",
+              "Recommendation 2: Cite reliable sources for your statistics to increase the credibility of your content."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Improve content structure by enhancing the flow of information and using more subheadings",
+              "importance": "A well-structured content is easier for AI to understand and surface in search results",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Increase question-answer coverage by incorporating common questions in your domain",
+              "importance": "Covering a wide range of questions increases the chances of your content being surfaced by AI assistants",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Make content more comprehensive by providing more detailed information",
+              "importance": "Comprehensive content is more likely to satisfy user queries, increasing its chances of being surfaced by AI assistants",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Incorporate more statistics and data points into your content",
+              "importance": "Factual content with statistics is more credible and likely to be surfaced by AI assistants",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Cite reliable sources for your statistics",
+              "importance": "Citing sources increases the credibility of your content, making it more likely to be surfaced by AI assistants",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            }
+          ]
+        },
+        "overall_score": 8.4
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 8.4,
+        "components": {
+          "content_quality": 9,
+          "technical_optimization": 8,
+          "authority_signals": 9,
+          "question_answering": 7
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Improve content structure by enhancing the flow of information and using more subheadings",
+          "importance": "A well-structured content is easier for AI to understand and surface in search results",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Increase question-answer coverage by incorporating common questions in your domain",
+          "importance": "Covering a wide range of questions increases the chances of your content being surfaced by AI assistants",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Make content more comprehensive by providing more detailed information",
+          "importance": "Comprehensive content is more likely to satisfy user queries, increasing its chances of being surfaced by AI assistants",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Incorporate more statistics and data points into your content",
+          "importance": "Factual content with statistics is more credible and likely to be surfaced by AI assistants",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Cite reliable sources for your statistics",
+          "importance": "Citing sources increases the credibility of your content, making it more likely to be surfaced by AI assistants",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:09:36.020051",
+    "domain": "https://asvaai.com/",
+    "overall_score": 7.8,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:09:04.702082"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 57,
+              "LCP": 117,
+              "TTFB": 53,
+              "DOM_Load": 60,
+              "Total_Load": 117,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 7.8,
+          "dimensions": {
+            "content_quality": {
+              "score": 8,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI, their benefits, and how they can be used.",
+              "issues": [
+                "Some sections could provide more detailed information."
+              ]
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and a logical flow. The use of different heading levels helps to organize the information effectively.",
+              "issues": [
+                "Some sections could benefit from additional subheadings to further break down the information."
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 6,
+              "explanation": "The content includes one question-answer pair. However, considering the nature of the website, it could benefit from more FAQ-style content to address common questions.",
+              "issues": [
+                "Limited question-answer pairs."
+              ]
+            },
+            "comprehensive_information": {
+              "score": 8,
+              "explanation": "The content covers its topic area thoroughly, providing information about the company, its services, and how they can be used.",
+              "issues": [
+                "Some sections could provide more detailed information."
+              ]
+            },
+            "entity_clarity": {
+              "score": 8,
+              "explanation": "The content clearly identifies key entities, products, and services. It is clear that the website is for Asva AI and the services it offers.",
+              "issues": [
+                "Some services could be described in more detail."
+              ]
+            },
+            "factual_content": {
+              "score": 7,
+              "explanation": "The content provides specific facts and data points, such as the increase in visibility and leads that clients have experienced. However, it does not provide many specific statistics.",
+              "issues": [
+                "Limited use of specific statistics."
+              ]
+            },
+            "contextual_completeness": {
+              "score": 8,
+              "explanation": "The content is self-contained and understandable without additional context. It provides a clear overview of the company and its services.",
+              "issues": [
+                "Some sections could provide more detailed information."
+              ]
+            },
+            "semantic_relevance": {
+              "score": 8,
+              "explanation": "The content uses relevant terminology and concepts. It uses terms related to AI and SEO, which are relevant to the services offered by Asva AI.",
+              "issues": [
+                "Some terms could be explained in more detail for those unfamiliar with the industry."
+              ]
+            }
+          },
+          "key_insights": [
+            "The website's content is informative and well-structured, which would make it easier for AI assistants to understand and surface relevant information.",
+            "The use of relevant terminology and concepts would help AI assistants to recognize the relevance of the content to user queries related to AI and SEO.",
+            "The limited use of question-answer pairs and specific statistics could reduce the likelihood of the website appearing in AI search results for certain queries."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "question_answer_coverage": [
+              "Recommendation 1: Add a Frequently Asked Questions (FAQ) section that covers common queries about your services, pricing, and benefits.",
+              "Recommendation 2: Consider using a conversational tone in some parts of the content to naturally incorporate question-answer pairs."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include more specific statistics about your services, such as success rates, client satisfaction scores, or case study results.",
+              "Recommendation 2: Use infographics or charts to visually represent these statistics, making them more engaging and easier to understand."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Add a Frequently Asked Questions (FAQ) section",
+              "importance": "This will increase the website's question-answer coverage, making it more likely to appear in AI search results for relevant queries.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include more specific statistics about your services",
+              "importance": "This will enhance the factual content of the website, making it more informative and credible to both users and AI search algorithms.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use infographics or charts to represent statistics",
+              "importance": "Visual representation of data can improve user engagement and comprehension, and can be recognized by advanced AI search algorithms.",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use a conversational tone in some parts of the content",
+              "importance": "This can naturally incorporate question-answer pairs, making the content more interactive and AI-friendly.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Add schema markup to the website",
+              "importance": "Schema markup helps AI search algorithms understand the content and structure of your website, improving its visibility in AI search results.",
+              "impact": "High",
+              "difficulty": "Difficult"
+            }
+          ]
+        },
+        "overall_score": 7.8
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 7.8,
+        "components": {
+          "content_quality": 8,
+          "technical_optimization": 8,
+          "authority_signals": 8,
+          "question_answering": 6
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Add a Frequently Asked Questions (FAQ) section",
+          "importance": "This will increase the website's question-answer coverage, making it more likely to appear in AI search results for relevant queries.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include more specific statistics about your services",
+          "importance": "This will enhance the factual content of the website, making it more informative and credible to both users and AI search algorithms.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use infographics or charts to represent statistics",
+          "importance": "Visual representation of data can improve user engagement and comprehension, and can be recognized by advanced AI search algorithms.",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use a conversational tone in some parts of the content",
+          "importance": "This can naturally incorporate question-answer pairs, making the content more interactive and AI-friendly.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Add schema markup to the website",
+          "importance": "Schema markup helps AI search algorithms understand the content and structure of your website, improving its visibility in AI search results.",
+          "impact": "High",
+          "difficulty": "Difficult"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:12:04.553783",
+    "domain": "https://asvaai.com/",
+    "overall_score": 8.5,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:11:33.417174"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 149,
+              "LCP": 215,
+              "TTFB": 56,
+              "DOM_Load": 66,
+              "Total_Load": 215,
+              "Total_Size": 600,
+              "Resource_Count": 5,
+              "Resource_Types": {
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "css": {
+                  "count": 2,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 8.5,
+          "dimensions": {
+            "content_quality": {
+              "score": 9,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI, their benefits, and how they can be used.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 8,
+              "explanation": "The content is well-structured with clear headings and logical flow. However, there are a few sections where the flow could be improved.",
+              "issues": [
+                "Some sections could have a better flow"
+              ]
+            },
+            "question_answer_coverage": {
+              "score": 7,
+              "explanation": "The content includes a question-answer pair, but it could cover more common questions in its domain.",
+              "issues": [
+                "Limited question-answer pairs"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 9,
+              "explanation": "The content thoroughly covers its topic area, providing detailed information about Asva AI's services and their benefits.",
+              "issues": []
+            },
+            "entity_clarity": {
+              "score": 9,
+              "explanation": "The content clearly identifies key entities, products, and services offered by Asva AI.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 8,
+              "explanation": "The content provides specific facts and data points, but it could include more statistics to support its claims.",
+              "issues": [
+                "Lack of specific statistics"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 9,
+              "explanation": "The content is self-contained and understandable without additional context.",
+              "issues": []
+            },
+            "semantic_relevance": {
+              "score": 9,
+              "explanation": "The content uses relevant terminology and concepts related to AI search optimization.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website's content is high-quality and informative, which would make it a good match for AI search queries related to AI search optimization.",
+            "The content is well-structured with clear headings, which would make it easy for AI assistants to parse and understand.",
+            "The website could improve its AI search optimization by including more question-answer pairs and specific statistics."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "content_structure": [
+              "Recommendation 1: Review the content flow in each section. Ensure that each paragraph logically leads to the next, and that each section naturally progresses from the previous one.",
+              "Recommendation 2: Use more transitional phrases to guide readers from one idea to the next, improving the overall flow and readability."
+            ],
+            "question_answer_coverage": [
+              "Recommendation 1: Include a FAQ section on the website that covers common questions related to the services offered by Asva AI.",
+              "Recommendation 2: Use tools like Answer the Public or Google's 'People also ask' feature to identify common questions in the AI domain, and incorporate these into the website content."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include more specific statistics and data points to support the claims made about Asva AI's services.",
+              "Recommendation 2: Use infographics or charts to visually represent these statistics, making them more engaging and easier to understand."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Include a FAQ section on the website",
+              "importance": "This will increase the website's visibility in AI search results by providing direct answers to common questions.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include more specific statistics and data points",
+              "importance": "This will enhance the credibility of the website's content and make it more informative for users and AI search algorithms.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Improve the content flow in each section",
+              "importance": "This will enhance the readability of the website, making it easier for AI search algorithms to parse and understand the content.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Use transitional phrases to improve content flow",
+              "importance": "This will guide readers from one idea to the next, improving the overall readability and structure of the content.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            },
+            {
+              "action": "Use infographics or charts to represent statistics",
+              "importance": "Visual representation of data can make the content more engaging and easier to understand, improving the user experience and the website's AI search visibility.",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            }
+          ]
+        },
+        "overall_score": 8.5
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 8.5,
+        "components": {
+          "content_quality": 9,
+          "technical_optimization": 8,
+          "authority_signals": 9,
+          "question_answering": 7
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Include a FAQ section on the website",
+          "importance": "This will increase the website's visibility in AI search results by providing direct answers to common questions.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include more specific statistics and data points",
+          "importance": "This will enhance the credibility of the website's content and make it more informative for users and AI search algorithms.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Improve the content flow in each section",
+          "importance": "This will enhance the readability of the website, making it easier for AI search algorithms to parse and understand the content.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Use transitional phrases to improve content flow",
+          "importance": "This will guide readers from one idea to the next, improving the overall readability and structure of the content.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        },
+        {
+          "action": "Use infographics or charts to represent statistics",
+          "importance": "Visual representation of data can make the content more engaging and easier to understand, improving the user experience and the website's AI search visibility.",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-06-01T14:13:25.032129",
+    "domain": "https://asvaai.com/",
+    "overall_score": 8.5,
+    "report": {
+      "site_info": {
+        "domain": "https://asvaai.com/",
+        "pages_analyzed": 1,
+        "title": "asva-ai-visibility-guide",
+        "description": "Lovable Generated Project"
+      },
+      "content_analysis": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "title": "asva-ai-visibility-guide",
+          "description": "Lovable Generated Project",
+          "pages_analyzed": 1
+        },
+        "ai_readiness_scores": {
+          "overall": 51.5,
+          "components": {
+            "content_quality": 88.4,
+            "technical_optimization": 60.0,
+            "authority_signals": 25.0,
+            "question_answering": 10.0
+          }
+        },
+        "content_stats": {
+          "total_pages": 1,
+          "avg_word_count": 756.0,
+          "pages_with_thin_content": 0,
+          "total_qa_pairs": 1,
+          "has_structured_data": false,
+          "js_rendered_pages": 1
+        },
+        "top_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          }
+        ],
+        "all_recommendations": [
+          {
+            "category": "Technical Optimization",
+            "issue": "Missing structured data",
+            "recommendation": "Implement schema.org markup (JSON-LD) for your content type.",
+            "importance": "Critical"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of citations",
+            "recommendation": "Add citations to credible sources to support key claims.",
+            "importance": "High"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of expertise signals",
+            "recommendation": "Add author credentials, expertise information, or professional qualifications.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Authority Signals",
+            "issue": "Lack of factual statements",
+            "recommendation": "Include specific facts, statistics, and data points to support content.",
+            "importance": "Medium"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Missing FAQ schema",
+            "recommendation": "Implement FAQPage schema markup for question-answer content.",
+            "importance": "High"
+          },
+          {
+            "category": "Question Answering",
+            "issue": "Content doesn't address common questions",
+            "recommendation": "Include 'how-to' sections, comparisons, and benefit analyses in your content.",
+            "importance": "High"
+          }
+        ]
+      },
+      "seo_audit": {
+        "site_info": {
+          "domain": "asvaai.com",
+          "start_url": "https://asvaai.com/",
+          "audit_date": "2025-06-01T14:12:51.353026"
+        },
+        "performance_metrics": {
+          "page_load_times": {
+            "https://asvaai.com/": {
+              "FCP": 59,
+              "LCP": 122,
+              "TTFB": 55,
+              "DOM_Load": 63,
+              "Total_Load": 122,
+              "Total_Size": 600,
+              "Resource_Count": 4,
+              "Resource_Types": {
+                "link": {
+                  "count": 1,
+                  "size": 300
+                },
+                "script": {
+                  "count": 2,
+                  "size": 300
+                },
+                "css": {
+                  "count": 1,
+                  "size": 0
+                }
+              }
+            }
+          }
+        },
+        "issues": {
+          "broken_links": [
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/demo",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://www.linkedin.com/company/asva-ai/",
+              "status_code": 999
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://x.com/ai_asva",
+              "status_code": 403
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/prompt-intelligence",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/features/gpt-shopping",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/blog",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/aeo-101",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/resources/case-studies",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/pricing",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/llm-txt-generator",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/about",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/team",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/careers",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/company/contact",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/login",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/privacy",
+              "status_code": 404
+            },
+            {
+              "source_page": "https://asvaai.com/",
+              "broken_url": "https://asvaai.com/security",
+              "status_code": 404
+            }
+          ],
+          "missing_h1_pages": [],
+          "duplicate_meta_tags": [
+            "asva-ai-visibility-guide",
+            "Lovable Generated Project"
+          ],
+          "image_issues": [],
+          "security_issues": [],
+          "mobile_issues": [],
+          "accessibility_issues": [],
+          "performance_issues": []
+        },
+        "recommendations": [
+          {
+            "category": "Links",
+            "issue": "Broken links found",
+            "recommendation": "Fix or remove broken links to improve user experience and SEO"
+          },
+          {
+            "category": "Meta Tags",
+            "issue": "Duplicate meta tags found",
+            "recommendation": "Ensure unique meta titles and descriptions for each page"
+          }
+        ]
+      },
+      "llm_insights": {
+        "website": "asvaai.com",
+        "analysis": {
+          "overall_score": 8.5,
+          "dimensions": {
+            "content_quality": {
+              "score": 9,
+              "explanation": "The content is informative, accurate, and valuable. It provides clear information about the services offered by Asva AI, their benefits, and how they can be used.",
+              "issues": []
+            },
+            "content_structure": {
+              "score": 9,
+              "explanation": "The content is well-structured with clear headings and logical flow. It starts with an introduction to the services, followed by detailed descriptions, testimonials, and resources.",
+              "issues": []
+            },
+            "question_answer_coverage": {
+              "score": 7,
+              "explanation": "The content includes a question-answer pair, but it could cover more common questions in its domain.",
+              "issues": [
+                "Limited question-answer pairs"
+              ]
+            },
+            "comprehensive_information": {
+              "score": 8,
+              "explanation": "The content covers its topic area thoroughly, providing detailed information about the services and their benefits. However, it could provide more detailed case studies or examples.",
+              "issues": [
+                "Lack of detailed case studies or examples"
+              ]
+            },
+            "entity_clarity": {
+              "score": 9,
+              "explanation": "The content clearly identifies key entities, products, and services. It mentions Asva AI, its services, and AI platforms like ChatGPT.",
+              "issues": []
+            },
+            "factual_content": {
+              "score": 8,
+              "explanation": "The content provides specific facts and data points, such as the increase in AI visibility and AI-driven signups. However, it could provide more specific statistics or data.",
+              "issues": [
+                "Lack of specific statistics or data"
+              ]
+            },
+            "contextual_completeness": {
+              "score": 9,
+              "explanation": "The content is self-contained and understandable without additional context. It provides all the necessary information about Asva AI and its services.",
+              "issues": []
+            },
+            "semantic_relevance": {
+              "score": 9,
+              "explanation": "The content uses relevant terminology and concepts, such as AI visibility, AI Traffic Decoder, and Answer Engine Optimization.",
+              "issues": []
+            }
+          },
+          "key_insights": [
+            "The website has a high overall score, indicating that it is likely to be discovered and surfaced by AI assistants when users ask relevant questions.",
+            "The content is of high quality and well-structured, which makes it easy for AI assistants to understand and extract information.",
+            "The website could improve its AI search optimization by including more question-answer pairs and providing more detailed case studies or examples.",
+            "The website could also improve its AI search optimization by providing more specific statistics or data."
+          ]
+        },
+        "recommendations": {
+          "dimension_recommendations": {
+            "question_answer_coverage": [
+              "Recommendation 1: Include a FAQ section on the website that covers common questions related to the services offered by Asva AI.",
+              "Recommendation 2: Use tools like AnswerThePublic or Google's 'People also ask' feature to identify common questions in the AI domain and incorporate answers to these questions in the website content."
+            ],
+            "comprehensive_information": [
+              "Recommendation 1: Include detailed case studies or examples that demonstrate the effectiveness of Asva AI's services.",
+              "Recommendation 2: Use testimonials or success stories from clients to provide real-world examples of how the services have been beneficial."
+            ],
+            "factual_content": [
+              "Recommendation 1: Include specific statistics or data points that highlight the effectiveness of Asva AI's services, such as the percentage increase in AI visibility or AI-driven signups after using the services.",
+              "Recommendation 2: Use infographics or charts to visually represent these data points and make them more engaging."
+            ]
+          },
+          "priority_actions": [
+            {
+              "action": "Include a FAQ section on the website",
+              "importance": "This will increase the website's question-answer coverage, making it more likely to be surfaced by AI assistants when users ask relevant questions.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include detailed case studies or examples",
+              "importance": "This will make the website's content more comprehensive and provide real-world evidence of the effectiveness of Asva AI's services.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Include specific statistics or data points",
+              "importance": "This will enhance the factual content of the website and make it more credible and persuasive.",
+              "impact": "High",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use infographics or charts to represent data points",
+              "importance": "This will make the data points more engaging and easier to understand, enhancing the user experience.",
+              "impact": "Medium",
+              "difficulty": "Moderate"
+            },
+            {
+              "action": "Use tools like AnswerThePublic to identify common questions",
+              "importance": "This will help ensure that the website's content covers the questions that users are most likely to ask, increasing its relevance and visibility in AI search results.",
+              "impact": "Medium",
+              "difficulty": "Easy"
+            }
+          ]
+        },
+        "overall_score": 8.5
+      },
+      "content_stats": {
+        "total_pages": 1,
+        "avg_word_count": 0.0,
+        "pages_with_thin_content": 1,
+        "total_qa_pairs": 1,
+        "has_structured_data": false,
+        "js_rendered_pages": 1
+      },
+      "ai_readiness_scores": {
+        "overall": 8.5,
+        "components": {
+          "content_quality": 9,
+          "technical_optimization": 9,
+          "authority_signals": 9,
+          "question_answering": 7
+        }
+      },
+      "top_recommendations": [
+        {
+          "action": "Include a FAQ section on the website",
+          "importance": "This will increase the website's question-answer coverage, making it more likely to be surfaced by AI assistants when users ask relevant questions.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include detailed case studies or examples",
+          "importance": "This will make the website's content more comprehensive and provide real-world evidence of the effectiveness of Asva AI's services.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Include specific statistics or data points",
+          "importance": "This will enhance the factual content of the website and make it more credible and persuasive.",
+          "impact": "High",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use infographics or charts to represent data points",
+          "importance": "This will make the data points more engaging and easier to understand, enhancing the user experience.",
+          "impact": "Medium",
+          "difficulty": "Moderate"
+        },
+        {
+          "action": "Use tools like AnswerThePublic to identify common questions",
+          "importance": "This will help ensure that the website's content covers the questions that users are most likely to ask, increasing its relevance and visibility in AI search results.",
+          "impact": "Medium",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  }
+]
