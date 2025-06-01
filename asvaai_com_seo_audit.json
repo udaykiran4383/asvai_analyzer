@@ -2,25 +2,25 @@
   "site_info": {
     "domain": "asvaai.com",
     "start_url": "https://asvaai.com/",
-    "audit_date": "2025-06-01T14:12:51.353026"
+    "audit_date": "2025-06-01T15:47:20.422690"
   },
   "performance_metrics": {
     "page_load_times": {
       "https://asvaai.com/": {
-        "FCP": 59,
-        "LCP": 122,
-        "TTFB": 55,
-        "DOM_Load": 63,
-        "Total_Load": 122,
+        "FCP": 61,
+        "LCP": 126,
+        "TTFB": 57,
+        "DOM_Load": 65,
+        "Total_Load": 126,
         "Total_Size": 600,
         "Resource_Count": 4,
         "Resource_Types": {
-          "link": {
-            "count": 1,
-            "size": 300
-          },
           "script": {
             "count": 2,
+            "size": 300
+          },
+          "link": {
+            "count": 1,
             "size": 300
           },
           "css": {
