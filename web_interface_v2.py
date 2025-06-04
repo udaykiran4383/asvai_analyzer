@@ -18,14 +18,10 @@ import traceback
 from typing import Dict, List, Any, Optional, Tuple
 import logging
 
-# Add the main directory to the Python path
-current_dir = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(current_dir)
-
-from .web_crawler_v2 import WebsiteCrawler
-from .search_readiness_analyser import AIReadinessAnalyzer
-from .llm_analyser import AISearchOptimizer
-from .seo_auditor import SEOAuditor
+from web_crawler_v2 import WebsiteCrawler
+from search_readiness_analyser import AIReadinessAnalyzer
+from llm_analyser import AISearchOptimizer
+from seo_auditor import SEOAuditor
 
 st.set_page_config(
     page_title="AI Search Readiness Analyzer", 
