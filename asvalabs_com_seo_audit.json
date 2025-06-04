@@ -2,16 +2,16 @@
   "site_info": {
     "domain": "asvalabs.com",
     "start_url": "https://asvalabs.com/",
-    "audit_date": "2025-06-01T15:28:39.938632"
+    "audit_date": "2025-06-03T21:42:51.643605"
   },
   "performance_metrics": {
     "page_load_times": {
       "https://asvalabs.com/": {
-        "FCP": 8,
-        "LCP": 17,
+        "FCP": 6,
+        "LCP": 15,
         "TTFB": 0,
         "DOM_Load": 9,
-        "Total_Load": 17,
+        "Total_Load": 15,
         "Total_Size": 0,
         "Resource_Count": 7,
         "Resource_Types": {

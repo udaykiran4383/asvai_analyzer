@@ -2,30 +2,42 @@
   "site_info": {
     "domain": "asvaai.com",
     "start_url": "https://asvaai.com/",
-    "audit_date": "2025-06-01T15:47:20.422690"
+    "audit_date": "2025-06-04T14:45:37.673385"
   },
   "performance_metrics": {
     "page_load_times": {
       "https://asvaai.com/": {
-        "FCP": 61,
-        "LCP": 126,
+        "FCP": 65,
+        "LCP": 327,
         "TTFB": 57,
-        "DOM_Load": 65,
-        "Total_Load": 126,
-        "Total_Size": 600,
-        "Resource_Count": 4,
+        "DOM_Load": 262,
+        "Total_Load": 327,
+        "Total_Size": 6594,
+        "Resource_Count": 22,
         "Resource_Types": {
           "script": {
-            "count": 2,
-            "size": 300
+            "count": 4,
+            "size": 2594
           },
           "link": {
             "count": 1,
             "size": 300
           },
-          "css": {
-            "count": 1,
+          "fetch": {
+            "count": 3,
             "size": 0
+          },
+          "iframe": {
+            "count": 1,
+            "size": 316
+          },
+          "css": {
+            "count": 2,
+            "size": 0
+          },
+          "img": {
+            "count": 11,
+            "size": 3384
           }
         }
       }
@@ -71,11 +83,6 @@
       {
         "source_page": "https://asvaai.com/",
         "broken_url": "https://asvaai.com/pricing",
-        "status_code": 404
-      },
-      {
-        "source_page": "https://asvaai.com/",
-        "broken_url": "https://asvaai.com/login",
         "status_code": 404
       },
       {
@@ -210,11 +217,6 @@
       },
       {
         "source_page": "https://asvaai.com/",
-        "broken_url": "https://asvaai.com/login",
-        "status_code": 404
-      },
-      {
-        "source_page": "https://asvaai.com/",
         "broken_url": "https://asvaai.com/privacy",
         "status_code": 404
       },
@@ -226,8 +228,8 @@
     ],
     "missing_h1_pages": [],
     "duplicate_meta_tags": [
-      "asva-ai-visibility-guide",
-      "Lovable Generated Project"
+      "Asva AI - Answer Engine Optimization & AI Visibility Platform",
+      "Boost your brand's AI visibility with Asva AI's Answer Engine Optimization platform. Track AI mentions, optimize for ChatGPT, Claude & Perplexity, and dominate AI search results."
     ],
     "image_issues": [],
     "security_issues": [],

@@ -349,8 +349,8 @@ def run_analysis(url, max_pages, use_js, wait_time, use_llm,
         # Calculate content statistics with safe defaults
         content_stats = {
             "total_pages": len(crawler.pages_data) if crawler and crawler.pages_data else 0,
-            "avg_word_count": sum(len(page.get('content', '').split()) for page in crawler.pages_data) / len(crawler.pages_data) if crawler and crawler.pages_data else 0,
-            "pages_with_thin_content": sum(1 for page in crawler.pages_data if len(page.get('content', '').split()) < 300) if crawler and crawler.pages_data else 0,
+            "avg_word_count": sum(len(page.get('full_text', '').split()) for page in crawler.pages_data) / len(crawler.pages_data) if crawler and crawler.pages_data else 0,
+            "pages_with_thin_content": sum(1 for page in crawler.pages_data if len(page.get('full_text', '').split()) < 300) if crawler and crawler.pages_data else 0,
             "total_qa_pairs": sum(len(page.get('qa_pairs', [])) for page in crawler.pages_data) if crawler and crawler.pages_data else 0,
             "has_structured_data": bool(crawler.structured_data) if crawler else False,
             "js_rendered_pages": sum(1 for page in crawler.pages_data if page.get('js_rendered', False)) if crawler and crawler.pages_data else 0
