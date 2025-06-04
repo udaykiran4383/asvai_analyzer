@@ -9,14 +9,22 @@ import plotly.graph_objects as go
 from datetime import datetime
 import threading
 import queue
+from dotenv import load_dotenv
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import re
+import traceback
+from typing import Dict, List, Any, Optional, Tuple
+import logging
 
 # Add the current directory to the path so we can import our modules
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from web_crawler_v2 import WebsiteCrawler
-from serach_readiness_analyser import AIReadinessAnalyzer
-from llm_analyser import AISearchOptimizer
-from seo_auditor import SEOAuditor
+from .web_crawler_v2 import WebCrawler
+from .serach_readiness_analyser import SearchReadinessAnalyzer
+from .llm_analyser import LLMAnalyzer
+from .seo_auditor import SEOAuditor
 
 st.set_page_config(
     page_title="AI Search Readiness Analyzer", 
@@ -275,7 +283,7 @@ def run_analysis(url, max_pages, use_js, wait_time, use_llm,
         # Step 1: Crawl website
         status_text.text("Crawling website...")
         try:
-            crawler = WebsiteCrawler(start_url=url, max_pages=max_pages, use_selenium=use_js, wait_time=wait_time)
+            crawler = WebCrawler(start_url=url, max_pages=max_pages, use_selenium=use_js, wait_time=wait_time)
             crawler.crawl()
         except Exception as e:
             st.error(f"Error during website crawling: {str(e)}")
@@ -310,7 +318,7 @@ def run_analysis(url, max_pages, use_js, wait_time, use_llm,
         # Step 2: Analyze content
         status_text.text("Analyzing content...")
         try:
-            analyzer = AIReadinessAnalyzer(crawler_results)
+            analyzer = SearchReadinessAnalyzer(crawler_results)
             content_analysis = analyzer.generate_report()
         except Exception as e:
             st.error(f"Error during content analysis: {str(e)}")
@@ -336,7 +344,7 @@ def run_analysis(url, max_pages, use_js, wait_time, use_llm,
         if use_llm:
             status_text.text("Running AI analysis...")
             try:
-                optimizer = AISearchOptimizer()
+                optimizer = LLMAnalyzer()
                 llm_insights = optimizer.evaluate_website(crawler_results)
             except Exception as e:
                 st.error(f"Error during AI analysis: {str(e)}")
