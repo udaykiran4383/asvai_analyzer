@@ -5,7 +5,7 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Import your Streamlit app
-from web_interface_v2 import app
+from web_interface_pythonanywhere import app
 
 # Create WSGI application
 application = app.server 
