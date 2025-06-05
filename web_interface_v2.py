@@ -18,6 +18,13 @@ import traceback
 from typing import Dict, List, Any, Optional, Tuple
 import logging
 
+# Load environment variables
+load_dotenv()
+
+# Set OpenAI API key from Streamlit secrets
+if 'openai' in st.secrets:
+    os.environ['OPENAI_API_KEY'] = st.secrets['openai']['api_key']
+
 from web_crawler_v2 import WebsiteCrawler
 from search_readiness_analyser import AIReadinessAnalyzer
 from llm_analyser import AISearchOptimizer
