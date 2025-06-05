@@ -8,6 +8,14 @@ font = "sans serif"
 [server]
 enableCORS = false
 enableXsrfProtection = true
+maxUploadSize = 200
+maxMessageSize = 200
 
 [browser]
-gatherUsageStats = false 
+gatherUsageStats = false
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+magicEnabled = true
+fastReruns = true 
