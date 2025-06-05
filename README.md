@@ -1,53 +1,54 @@
 # AI Search Readiness Analyzer
 
-A Streamlit application that analyzes website content for search readiness using AI.
+A Streamlit application that analyzes websites for AI search readiness and optimization.
 
 ## Features
 
-- Website crawling and content extraction
-- SEO analysis
-- Search readiness scoring
-- Content optimization suggestions
-- Performance visualization
+- Website crawling and analysis
+- Content quality assessment
+- Technical optimization scoring
+- Authority signal analysis
+- Q&A capability evaluation
+- Interactive visualizations
+- Detailed recommendations
 
 ## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/udaykiran4383/asvai_analyzer.git
-cd asvai_analyzer
-```
-
+1. Clone the repository
 2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Set up environment variables:
+   - Create a `.env` file
+   - Add your OpenAI API key:
+     ```
+     OPENAI_API_KEY=your_api_key_here
+     ```
+
+## Running Locally
+
 ```bash
-pip install -r requirements.txt
+streamlit run web_interface_v2.py
 ```
-
-3. Run the application:
-```bash
-streamlit run main/web_interface_v2.py
-```
-
-## Usage
-
-1. Enter the URL of the website you want to analyze
-2. Click "Analyze" to start the process
-3. View the results and recommendations
-4. Download the analysis report
-
-## Live Demo
-
-[View the live demo](https://asvai-analyzer.streamlit.app)
 
 ## Deployment
 
-This application is deployed on Streamlit Cloud. To deploy your own version:
+This application can be deployed on Streamlit Cloud:
 
-1. Fork this repository
-2. Sign up for Streamlit Cloud
+1. Push your code to a GitHub repository
+2. Go to [share.streamlit.io](https://share.streamlit.io)
 3. Connect your GitHub repository
-4. Set the main file path to `main/web_interface_v2.py`
+4. Set the environment variables in the Streamlit Cloud dashboard
 5. Deploy!
+
+## Environment Variables
+
+- `OPENAI_API_KEY`: Your OpenAI API key (required)
+
+## License
+
+MIT License
 
 ## Project Structure
 
