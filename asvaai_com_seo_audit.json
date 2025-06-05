@@ -1,0 +1,252 @@
+{
+  "site_info": {
+    "domain": "asvaai.com",
+    "start_url": "https://asvaai.com/",
+    "audit_date": "2025-06-05T11:07:13.895566"
+  },
+  "performance_metrics": {
+    "page_load_times": {
+      "https://asvaai.com/": {
+        "FCP": 61,
+        "LCP": 730,
+        "TTFB": 54,
+        "DOM_Load": 669,
+        "Total_Load": 730,
+        "Total_Size": 3901,
+        "Resource_Count": 13,
+        "Resource_Types": {
+          "script": {
+            "count": 4,
+            "size": 2601
+          },
+          "link": {
+            "count": 1,
+            "size": 300
+          },
+          "fetch": {
+            "count": 3,
+            "size": 0
+          },
+          "iframe": {
+            "count": 1,
+            "size": 316
+          },
+          "css": {
+            "count": 2,
+            "size": 0
+          },
+          "img": {
+            "count": 2,
+            "size": 684
+          }
+        }
+      }
+    }
+  },
+  "issues": {
+    "broken_links": [
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/prompt-intelligence",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/gpt-shopping",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/blog",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/resources/aeo-101",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/resources/case-studies",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/pricing",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/demo",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/demo",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/prompt-intelligence",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/demo",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/blog",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/resources/case-studies",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/blog",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/blog",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/demo",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://www.linkedin.com/company/asva-ai/",
+        "status_code": 999
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://x.com/ai_asva",
+        "status_code": 403
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/brand-visibility-tracker",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/ai-traffic-decoder",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/prompt-intelligence",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/features/gpt-shopping",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/blog",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/resources/aeo-101",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/resources/case-studies",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/pricing",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/llm-txt-generator",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/company/about",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/company/team",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/company/careers",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/company/contact",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/privacy",
+        "status_code": 404
+      },
+      {
+        "source_page": "https://asvaai.com/",
+        "broken_url": "https://asvaai.com/security",
+        "status_code": 404
+      }
+    ],
+    "missing_h1_pages": [],
+    "duplicate_meta_tags": [
+      "Asva AI - Answer Engine Optimization & AI Visibility Platform",
+      "Boost your brand's AI visibility with Asva AI's Answer Engine Optimization platform. Track AI mentions, optimize for ChatGPT, Claude & Perplexity, and dominate AI search results."
+    ],
+    "image_issues": [],
+    "security_issues": [],
+    "mobile_issues": [],
+    "accessibility_issues": [],
+    "performance_issues": []
+  },
+  "recommendations": [
+    {
+      "category": "Links",
+      "issue": "Broken links found",
+      "recommendation": "Fix or remove broken links to improve user experience and SEO"
+    },
+    {
+      "category": "Meta Tags",
+      "issue": "Duplicate meta tags found",
+      "recommendation": "Ensure unique meta titles and descriptions for each page"
+    }
+  ]
+}

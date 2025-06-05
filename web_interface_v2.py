@@ -253,8 +253,6 @@ def main():
         st.write("4. Wait for the analysis to complete")
         
         if analyze_button and url:
-            if not url.startswith(('http://', 'https://')):
-                url = 'https://' + url
             st.info(f"Starting analysis of {url}...")
             run_analysis(url, max_pages, use_js, wait_time, use_llm, 
                         check_security, check_mobile, check_accessibility)
@@ -276,6 +274,11 @@ def run_analysis(url, max_pages, use_js, wait_time, use_llm,
         # Create progress bar and status
         progress_bar = st.progress(0)
         status_text = st.empty()
+        
+        # Clean up URL format
+        if not url.startswith(('http://', 'https://')):
+            url = 'https://' + url
+        url = url.strip()  # Remove any extra whitespace
         
         # Step 1: Crawl website
         status_text.text("Crawling website...")
